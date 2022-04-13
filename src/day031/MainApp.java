@@ -35,10 +35,10 @@ public class MainApp {
 */
 
 
-
+/*
         Dikdortgen d1=new Dikdortgen(7,4);
 
-        System.out.println(d1);
+        System.out.println(d1);*/
 
 
 
