@@ -1,0 +1,3 @@
+1. Dikdortgen sınıfını oluşturunuz. Sekil sınıfından türetilmelidir.
+2. Bütün abstract metotları implemente ediniz. Alan nasıl hesaplanıyor?
+    Çevre nasıl hesaplanıyor? Çizim nasıl yapılıyor?
