@@ -1,3 +1,9 @@
-1. Dikdortgen sınıfını oluşturunuz. Sekil sınıfından türetilmelidir.
-2. Bütün abstract metotları implemente ediniz. Alan nasıl hesaplanıyor?
-    Çevre nasıl hesaplanıyor? Çizim nasıl yapılıyor?
+1. Dikdortgen sınıfını oluşturunuz.
+Sekil sınıfından türetilmelidir.
+2. genislik ve yukseklik double değişkenlerini tanımlayınız.
+3. getter/setter
+4. parametreli, parametresiz constructor
+5. Bütün abstract metotları implemente ediniz.
+ - Alan nasıl hesaplanıyor?
+ - Çevre nasıl hesaplanıyor?
+ - Çizim nasıl yapılıyor?
