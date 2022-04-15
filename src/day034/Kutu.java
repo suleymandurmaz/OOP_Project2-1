@@ -14,7 +14,7 @@ public class Kutu extends Sekil3B{
     }
 
     public double getHacim(){
-
+        return getDerinlik()*getYukseklik()*getGenislik();
     }
 
     public String getRenk() {
@@ -31,5 +31,10 @@ public class Kutu extends Sekil3B{
 
     public void setAgirlik(double agirlik) {
         this.agirlik = agirlik;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("[Ağırlık: %5.2f Hacim: %5.2f]",agirlik,getHacim());
     }
 }
