@@ -1,0 +1,10 @@
+
+OOP Prensipleri
+Temel amaç soyutlama (abstraction)dır.
+
+1. Kalıtım (inheritance)
+   this ve super
+
+2. Sarmalama (Encapsulation)
+
+3. Çok biçimlilik (Polimorfism)
